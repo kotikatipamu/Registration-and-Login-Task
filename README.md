@@ -1,12 +1,10 @@
 # Registration-and-Login-Task
-Email regstration
-
-#Assignment 1                                                       
+## Email regstration                                                      
 
 Registration and Login system using Python, file handling
 
-Stage -- 1 
-Registration
+## Stage-1 
+# Registration
 
 When the user chooses to Register
 
@@ -35,14 +33,14 @@ eg:- 123#@gmail.com
                             one uppercase, 
               one lowercase character 
 
-Stage 2 
+## Stage 2 
 
   Once the username and password are validated, store that data in a file
 
 
-Stage 3
+## Stage 3
 
-Login
+# Login
 
  When the user chooses to Login, check whether his/her credentials exist in the file or not based on the user input. 
  
